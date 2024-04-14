@@ -1,0 +1,2 @@
+export const GET_NEWS_FIRST_LIST = 'GET_NEWS_FIRST_LIST';
+export const GET_NEWS_NEXT = 'GET_NEWS_NEXT';

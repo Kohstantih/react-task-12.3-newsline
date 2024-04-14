@@ -1,0 +1,9 @@
+.news_item {
+    width: 100%;
+
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: white;
+
+    padding: 10px;
+}
